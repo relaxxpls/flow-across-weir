@@ -383,7 +383,7 @@ Weirs are mainly used to control the flow rates of rivers during periods of high
 For constant fluid flow rate, as the height of the weir decreases, distance covered by the fluid over the flat surface also decreases. On an average we observe that the fluid reaches 5 to 6m ahead of weir in case of turbulent flow (minimum in case where H=0) where as less than 1m in case of laminar flows.
 Thus, for the optimum outflow conditions for turbulent flow is that  the height of weir should be as close to the height of stream for minimum ahead reach of fluid and controlled outflow of fluid.
 
-<style>
+<!-- <style>
   table {
       width:100%;
   }
@@ -393,4 +393,4 @@ Thus, for the optimum outflow conditions for turbulent flow is that  the height 
   figure {
     text-align: center;
   }
-</style>
+</style> -->
