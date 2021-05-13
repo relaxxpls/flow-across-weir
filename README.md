@@ -8,12 +8,6 @@ We will try and understand how height of fluid over weir affects the flow rate o
 |:-:|:-:|:-:|:-:|
 |190020066|190040106|19D180026|19D170012|
 
-## Problem
-
-## Statement
-
-
-
 ## Properties
 
 ### Dimensions
