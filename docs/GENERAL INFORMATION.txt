@@ -1,0 +1,9 @@
+fluid is water at 25 degrees
+surface tension modeling-continum surface force (surface tension coefficient=0.072 N/m)
+
+
+solver
+ 
+time step size=0.05
+number of step sizes=200
+reporting interval=10
